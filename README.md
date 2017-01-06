@@ -12,4 +12,18 @@ The script takes the following parameters (all of which are required, but do not
 
 Thanks @atwumb for the idea and inspiration. 
 
+To use this, ensure you have Python 2.7 installed (I haven't checked for compatibility with 3)
 
+How to use this script: 
+
+1. Copy the files to the directory 
+
+2. Run the script, using the example below
+
+python getname.py -m6 -d2 -y2015
+
+This will return a JSON result in this format: 
+
+{"Date of birth": "Tuesday 02 June 2015", "Female names": ["Abena"], "Male names": ["Kwabena"], "Day of birth": "Tuesday"}
+
+The script can easily be modified to return more than one name per gende per day, since there may be variations of each a name. 
