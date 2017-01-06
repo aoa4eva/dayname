@@ -9,3 +9,7 @@ The script takes the following parameters (all of which are required, but do not
 2. -m: The month in which the person was born. This can be with or without the lading zero 
 
 3. -y: The year in which the person was born. 4 digits suggested. 
+
+Thanks @atwumb for the idea and inspiration. 
+
+
