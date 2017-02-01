@@ -6,7 +6,7 @@ The script takes the following parameters (all of which are required, but do not
 
 1. -d : The day on which the person was born. This can be with or without the leading zero 
 
-2. -m: The month in which the person was born. This can be with or without the lading zero 
+2. -m: The month in which the person was born. This can be with or without the leading zero 
 
 3. -y: The year in which the person was born. 4 digits suggested. 
 
@@ -26,4 +26,4 @@ This will return a JSON result in this format:
 
 {"Date of birth": "Tuesday 02 June 2015", "Female names": ["Abena"], "Male names": ["Kwabena"], "Day of birth": "Tuesday"}
 
-The script can easily be modified to return more than one name per gende per day, since there may be variations of each a name. 
+The script can easily be modified to return more than one name per gender per day, since there may be variations of each a name. 
