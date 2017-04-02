@@ -10,7 +10,7 @@ The script takes the following parameters (all of which are required, but do not
 
 3. -y: The year in which the person was born. 4 digits suggested. 
 
-Thanks @atwumb for the idea and inspiration. 
+Thanks [@atwumb](http://www.github.com/atwumb) for the idea and inspiration. 
 
 To use this, ensure you have Python 2.7 installed (I haven't checked for compatibility with 3)
 
