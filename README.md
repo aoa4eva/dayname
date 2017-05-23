@@ -1,4 +1,4 @@
-# dayname
+# Dayname
 Get the Akan male and female day names from the date of birth entered
 
 This is a python script to determine the male and female names of a person whose date of birth is entered in a python prompt. 
